@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 👋 This is **Sourav Prasad**
-- 🌱 I’m a Laravel Developer with 2 years of experience in full-stack development.
+- 🌱 I’m a Laravel Developer with **more than 2 years of experience** in full-stack development.
 - 🔧 **Technologies I work with:** PHP, Laravel, HTML5, CSS3, MySQL, jQuery, Bootstrap, Ajax, Git, GitHub, Flutter, Dart.
 - 📚 I hold a B.Tech in Computer Science Engineering from Maryland Institute of Technology and Management, Jamshedpur.
 - 🔗 Check out my work on [Motoshare](https://motoshare.in), a comprehensive tourism platform for renting vehicles.
