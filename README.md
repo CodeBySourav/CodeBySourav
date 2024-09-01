@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**CodeBySourav/CodeBySourav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔸 **This is Sourav Prasad**
+- 🌱 I’m a Laravel Developer with 2 years of experience in full-stack development.
+- 🔧 **Technologies I work with:** PHP, Laravel, HTML5, CSS3, MySQL, jQuery, Bootstrap, Ajax, Git, GitHub, Flutter, Dart.
+- 📚 I hold a B.Tech in Computer Science Engineering from Maryland Institute of Technology and Management, Jamshedpur.
+- 🔗 Check out my work on [Motoshare](https://motoshare.in), a comprehensive tourism platform for renting vehicles.
+- 📫 To reach me, write to [souravprasad.co.in@gmail.com](mailto:souravprasad.co.in@gmail.com).
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sourav-prasad-691b351b2/).
+- ✍️ I also write blogs at [CMSGalaxy.com](https://www.cmsgalaxy.com/blog/) on web development, programming, and industry trends.
 
-Here are some ideas to get you started:
+### I'm currently working on:
+- [ ] Motoshare Vendor Panel App (Enhancing platform functionality)
+- [ ] Learning new techniques in Laravel and Flutter development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm currently learning
+- [ ] Advanced Laravel Features
+- [ ] Flutter & Dart
+- [ ] DevOps (CI/CD)
