@@ -3,7 +3,7 @@
 - 👋 This is **Sourav Prasad**
 - 🌱 I’m a Software Engineer with **more than 1 years of experience** in full-stack development.
 - 🏢 Currently working at **Cotocus India Pvt. Ltd** as a Software Engineer.
-- 🔧 **Technologies I work with:** PHP, Laravel, HTML5, CSS3, MySQL, jQuery, Bootstrap, Ajax, Git, GitHub, Flutter, Dart, REST API.
+- 🔧 **Technologies I work with:** PHP, Laravel, HTML5, CSS3, MySQL, jQuery, Bootstrap, Ajax, Git, GitHub, Flutter, Dart, REST API, API.
 - 📚 I hold a B.Tech in Computer Science Engineering from Maryland Institute of Technology and Management, Jamshedpur.
 - 🔗 Check out my work on [Motoshare](https://motoshare.in), a comprehensive tourism platform for renting vehicles.
 - 📱 Developed the **Motoshare User App** using **Flutter and Dart**, a comprehensive tourism platform for renting vehicles. Check it out [here](https://play.google.com/store/apps/details?id=com.cotocus.motoshare_test2).
